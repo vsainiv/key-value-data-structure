@@ -2,6 +2,8 @@
 
 Programming Language used : Java
 
+Build Tool : Gradle
+
 ### User can perform various operations.
 1. Insert
 2. Retrieve
@@ -19,4 +21,7 @@ Programming Language used : Java
  
 
 ### How to Run
-1. Class [DriverClass](https://github.com/vsainiv/key-value-data-structure/tree/main/key-value-ds/src/main/java/com/driver) is the main driver class which we will run, the user will see various options and can provide the input.
+1. Clone the project using git clone command.
+2. Open the project in IDE.
+3. Search for Class [DriverClass](https://github.com/vsainiv/key-value-data-structure/tree/main/key-value-ds/src/main/java/com/driver).
+3. DriverClass is the main driver class which we will run, the user will see various options and can provide the input.
