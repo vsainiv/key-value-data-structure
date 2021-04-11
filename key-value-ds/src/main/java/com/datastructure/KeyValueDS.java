@@ -70,7 +70,7 @@ public class KeyValueDS<Integer, String> {
   /**
    * Returns the list of all the keys present in the data structure.
    *
-   * @return list of keyss
+   * @return list of keys
    */
   public List<Integer> keySet() {
     List<Integer> list = new ArrayList<>();
