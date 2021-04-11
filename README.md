@@ -23,5 +23,5 @@ Build Tool : Gradle
 ### How to Run
 1. Clone the project using git clone command.
 2. Open the project in IDE.
-3. Search for Class [DriverClass](https://github.com/vsainiv/key-value-data-structure/tree/main/key-value-ds/src/main/java/com/driver).
+3. Search for Class [DriverClass](https://github.com/vsainiv/key-value-data-structure/blob/main/key-value-ds/src/main/java/com/driver/DriverClass.java).
 3. DriverClass is the main driver class which we will run, the user will see various options and can provide the input.
