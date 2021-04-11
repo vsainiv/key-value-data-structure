@@ -79,4 +79,13 @@ public class KeyValueDS<Integer, String> {
     }
     return list;
   }
+
+  /**
+   * Returns size of DS
+   *
+   * @return size
+   */
+  public int size() {
+    return size;
+  }
 }
